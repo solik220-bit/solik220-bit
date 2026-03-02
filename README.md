@@ -2,7 +2,7 @@
 
 # Привет, я Андрей Проценко 👋
 
-### 🎓 Data Science студент | 🤖 ML энтузиаст | 🐍 Python разработчик
+### 🎓 Изучаю Data Science | 🤖 ML энтузиаст | 🐍 Python разработчик
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+Data+Science+%26+ML;Kaggle+competitor;Always+learning+new+things...)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ Обо мне
 
-- 🎓 Обучаюсь Data Science в [@SENATOROVAI](https://github.com/SENATOROVAI)
+- 🎓 Прохожу стажировку в [@SENATOROVAI](https://github.com/SENATOROVAI)
 - 📊 Участвую в соревнованиях на Kaggle
 - 🧠 Участник сообщества ODS.ai
 - 🌱 Сейчас изучаю Machine Learning и Deep Learning
