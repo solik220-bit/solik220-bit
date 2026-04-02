@@ -12,7 +12,6 @@
 
 ## 🙋‍♂️ Обо мне
 
-- 🎓 Прохожу стажировку в [@SENATOROVAI](https://github.com/SENATOROVAI)
 - 📊 Участвую в соревнованиях на Kaggle
 - 🧠 Участник сообщества ODS.ai
 - 🌱 Сейчас изучаю Machine Learning и Deep Learning
